@@ -6,7 +6,7 @@ We are still growing our repositories, but to start with, we have repositories d
      * PowerProtect DD
      * PowerProtect DDMC
      * Smart Scale
-   * Languages
+   * Languages:
      * Ansible
      * PowerShell7
 * [PowerProtect Data Manager](https://github.com/SkunkworksAutomation/PowerProtectDataManager)
