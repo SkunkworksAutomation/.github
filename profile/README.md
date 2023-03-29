@@ -17,4 +17,4 @@ We are still growing our repositories, but to start with, we have repositories d
    * Languages:
      * Ansible
      * PowerShell7
-We have a metric ton of automation content coming soon but we want to ensure we post meaningful, relevant, and functional examples to address the most common use cases.
+<br/>We have a metric ton of automation content coming soon but we want to ensure we post meaningful, relevant, and functional examples to address the most common use cases.
