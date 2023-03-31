@@ -18,3 +18,6 @@ We are still growing our repositories, but to start with, we have repositories d
    * Languages:
      * Ansible
      * PowerShell7
+* [RP4VM](https://github.com/SkunkworksAutomation/RP4VM)
+   * Languages:
+     * PowerShell7
