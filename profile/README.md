@@ -18,6 +18,9 @@ We are still growing our repositories, but to start with, we have repositories d
    * Languages:
      * Ansible
      * PowerShell7
+* [Data Protection Advisor](https://github.com/SkunkworksAutomation/DataProtectionAdvisor)
+   * Languages:
+     * PowerShell7
 * [RP4VM](https://github.com/SkunkworksAutomation/RP4VM)
    * Languages:
      * PowerShell7
