@@ -14,7 +14,7 @@ We are still growing our repositories, but to start with, we have repositories d
    * Languages:
      * Ansible
      * PowerShell7
-* [PowerProtect Application Direct Agents](https://github.com/SkunkworksAutomation/PowerProtectApplicationDirectAgents)
+* [PowerProtect Application Direct Agents](https://github.com/SkunkworksAutomation/PowerProtectAppDirect)
    * Languages:
      * Ansible
 * [Avamar](https://github.com/SkunkworksAutomation/Avamar)
