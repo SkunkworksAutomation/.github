@@ -24,9 +24,9 @@ We are still growing our repositories, but to start with, we have repositories d
 * [Data Protection Advisor](https://github.com/SkunkworksAutomation/DataProtectionAdvisor)
    * Languages:
      * PowerShell7
-* [RP4VM](https://github.com/SkunkworksAutomation/RP4VM)
+* [Networker](https://github.com/SkunkworksAutomation/Networker)
    * Languages:
      * PowerShell7
-* [Networker](https://github.com/SkunkworksAutomation/Networker)
+* [RP4VM](https://github.com/SkunkworksAutomation/RP4VM)
    * Languages:
      * PowerShell7
