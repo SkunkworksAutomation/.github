@@ -27,3 +27,6 @@ We are still growing our repositories, but to start with, we have repositories d
 * [RP4VM](https://github.com/SkunkworksAutomation/RP4VM)
    * Languages:
      * PowerShell7
+* [Networker](https://github.com/SkunkworksAutomation/Networker)
+   * Languages:
+     * PowerShell7
