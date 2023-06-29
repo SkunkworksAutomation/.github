@@ -11,7 +11,7 @@ Cliff Rodriguez
   * [Dell Technoligies](https://www.dell.com/en-us)
   * [LinkedIn](https://www.linkedin.com/in/cliff-rodriguez-6673422b/)
 # Platforms
-* PowerShell
+* PowerShell7
   * [CMDLET Guidelines](https://learn.microsoft.com/en-us/powershell/scripting/developer/cmdlet/strongly-encouraged-development-guidelines?view=powershell-7.3)
   * CMDLET names are in lower case
   * CMDLET names begin with a PowerShell [approved verb](https://learn.microsoft.com/en-us/powershell/scripting/developer/cmdlet/approved-verbs-for-windows-powershell-commands?view=powershell-7.3)
