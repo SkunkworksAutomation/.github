@@ -1,6 +1,6 @@
 # Skunkworks Automation
 This is an unofficial Dell github focused on data protection automation.
-We have a ton of additional automation content coming but we want to ensure we post meaningful, relevant, and functional examples to address the most common data protection use cases.
+We have a ton of additional automation content in the pipeline. Our goal is to ensure we post meaningful, relevant, and functional examples to address the most common data protection use cases.
 We'll be working over the next few weeks to align with the conventions defined below for each product covered.
 
 # Notes:
