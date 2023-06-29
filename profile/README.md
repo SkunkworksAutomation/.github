@@ -1,35 +1,40 @@
-# Welcome to the Skunkworks Automation github...
+# Skunkworks Automation
 This is an unofficial Dell github focused on data protection automation.
-We have a metric ton of additional automation content coming but we want to ensure we post meaningful, relevant, and functional examples to address the most common data protection use cases.
-We are still growing our repositories, but to start with, we have repositories dedicated for the following applications in the product portfolio:
-* [Apex Backup Services](https://github.com/SkunkworksAutomation/ApexBackupServices)
-   * Languages:
-     * PowerShell7
-* [PowerProtect DD](https://github.com/SkunkworksAutomation/PowerProtectDD)
-   * Products: 
-     * PowerProtect DD
-     * PowerProtect DDMC
-     * Smart Scale
-   * Languages:
-     * Ansible
-     * PowerShell7
-* [PowerProtect Data Manager](https://github.com/SkunkworksAutomation/PowerProtectDataManager)
-   * Languages:
-     * Ansible
-     * PowerShell7
-* [PowerProtect Application Direct Agents](https://github.com/SkunkworksAutomation/PowerProtectAppDirect)
-   * Languages:
-     * Ansible
-* [Avamar](https://github.com/SkunkworksAutomation/Avamar)
-   * Languages:
-     * Ansible
-     * PowerShell7
-* [Data Protection Advisor](https://github.com/SkunkworksAutomation/DataProtectionAdvisor)
-   * Languages:
-     * PowerShell7
-* [Networker](https://github.com/SkunkworksAutomation/Networker)
-   * Languages:
-     * PowerShell7
-* [RP4VM](https://github.com/SkunkworksAutomation/RP4VM)
-   * Languages:
-     * PowerShell7
+We have a ton of additional automation content coming but we want to ensure we post meaningful, relevant, and functional examples to address the most common data protection use cases.
+We'll be working over the next few weeks to align with the conventions defined below for each product covered.
+
+# Authors
+Cliff Rodriguez
+  * [Dell Technoligies](https://www.dell.com/en-us)
+  * [LinkedIn](https://www.linkedin.com/in/cliff-rodriguez-6673422b/)
+# Automation Platforms
+* Ansible
+* PowerShell
+  * [CMDLET Guidelines](https://learn.microsoft.com/en-us/powershell/scripting/developer/cmdlet/strongly-encouraged-development-guidelines?view=powershell-7.3)
+  * CMDLET names are in lower case
+  * CMDLET names begin with a PowerShell [approved verb](https://learn.microsoft.com/en-us/powershell/scripting/developer/cmdlet/approved-verbs-for-windows-powershell-commands?view=powershell-7.3)
+  * CMDLET nouns are prefixed with two characters to avoid any naming convention collisions
+    * ap = APEX
+    * av = Avamar
+    * dd = PowerProtect Data Domain
+    * dm = PowerProtect Data Manager
+    * dp = Data Protection Advisor
+    * nw = Networker
+    * rp = RP4VM
+  * CMDLET variables are in pascal case
+  * CMDLET bindings must be used outside of the following global variables
+    * $global:ApiVersion
+    * $global:AuthObject
+    * $global:Port
+  * CMDLET help must be defined
+    * List module functions
+      * PS> Import-Module .\dell.ppdm.psm1 -Force
+      * PS> Get-Command -Module dell.ppdm
+    * List cmdlet help after module is imported (basic, detailed, verbose w/ examples)
+      * PS> {cmdlet-name} -?
+      * PS> Get-Help -Name {cmdlet-name} -Detailed
+      * PS> Get-Help -Name {cmdlet-name} -Full
+      * PS> Get-Help -Name {cmdlet-name} -Examples
+# Documentation
+* Ansible [latest](https://docs.ansible.com)
+* PowerShell 7.[latest](https://learn.microsoft.com/en-us/powershell)
