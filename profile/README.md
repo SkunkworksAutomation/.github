@@ -4,7 +4,7 @@ We have a ton of additional automation content coming but we want to ensure we p
 We'll be working over the next few weeks to align with the conventions defined below for each product covered.
 
 # Notes:
-I have removed the Ansible examples for now until I can get some conventions in place
+I have removed the Ansible examples for now until I can get some conventions in place. They will be back soon!
 
 # Authors
 Cliff Rodriguez
