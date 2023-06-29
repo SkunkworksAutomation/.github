@@ -3,12 +3,14 @@ This is an unofficial Dell github focused on data protection automation.
 We have a ton of additional automation content coming but we want to ensure we post meaningful, relevant, and functional examples to address the most common data protection use cases.
 We'll be working over the next few weeks to align with the conventions defined below for each product covered.
 
+# Notes:
+I have removed the Ansible examples for now until I can get some conventions in place
+
 # Authors
 Cliff Rodriguez
   * [Dell Technoligies](https://www.dell.com/en-us)
   * [LinkedIn](https://www.linkedin.com/in/cliff-rodriguez-6673422b/)
-# Automation Platforms
-* Ansible
+# Platforms
 * PowerShell
   * [CMDLET Guidelines](https://learn.microsoft.com/en-us/powershell/scripting/developer/cmdlet/strongly-encouraged-development-guidelines?view=powershell-7.3)
   * CMDLET names are in lower case
@@ -36,5 +38,4 @@ Cliff Rodriguez
       * PS> Get-Help -Name {cmdlet-name} -Full
       * PS> Get-Help -Name {cmdlet-name} -Examples
 # Documentation
-* Ansible [latest](https://docs.ansible.com)
 * PowerShell 7.[latest](https://learn.microsoft.com/en-us/powershell)
