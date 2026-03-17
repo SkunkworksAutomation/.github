@@ -23,8 +23,8 @@ Cliff Rodriguez
 
 ## PowerShell 7
 * Modules
- * [POSH-SSH](https://www.powershellgallery.com/packages/Posh-SSH)
- * [VCF.PowerCli](https://www.powershellgallery.com/packages/VCF.PowerCLI)
+  * [POSH-SSH](https://www.powershellgallery.com/packages/Posh-SSH)
+  * [VCF.PowerCli](https://www.powershellgallery.com/packages/VCF.PowerCLI)
 
 # Repositories
 | Respoitory             | Description            | Category                                          |
