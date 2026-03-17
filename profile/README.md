@@ -15,8 +15,8 @@ Cliff Rodriguez
 #iwork4dell
 
 # Platforms
-* Ansible
+- Ansible
  - Modules
   - [JMesPath](https://jmespath.org/)   
-* PowerShell 7
+- PowerShell 7
  - Modules 
