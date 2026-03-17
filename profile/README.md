@@ -16,8 +16,18 @@ Cliff Rodriguez
 
 # Platforms
 ## Ansible
-* Modules
-  * [JMesPath](https://jmespath.org/)   
+* Collections
+  * [ansible.windows](https://docs.ansible.com/projects/ansible/latest/collections/ansible/windows/index.html)
+  * [community.general](https://docs.ansible.com/projects/ansible/latest/collections/community/windows/index.html)
+    * [JMesPath](https://jmespath.org/)
 
 ## PowerShell 7
 * Modules
+ * [POSH-SSH](https://www.powershellgallery.com/packages/Posh-SSH)
+ * [VCF.PowerCli](https://www.powershellgallery.com/packages/VCF.PowerCLI)
+
+# Repositories
+|Respoitory|Description|
+| :--- | :--- | ----- |
+| [power-protect-ezdata](https://github.com/SkunkworksAutomation/power-protect-ezdata) | Powerprotect Data Manager declarative data extracts | Reporting |
+| [2026](https://github.com/SkunkworksAutomation/2026) | Powerprotect Data Manager automation & reporting | Autmation, Reporting |
