@@ -30,4 +30,4 @@ Cliff Rodriguez
 | Respoitory             | Description            | Category                                          |
 | :--------------------- | :--------------------- | :------------------------------------------------ |
 | [2026](https://github.com/SkunkworksAutomation/2026) | Powerprotect Data Manager automation & reporting examples in 2026 | `Automation`, `Reporting` |
-| [power-protect-ezdata](https://github.com/SkunkworksAutomation/power-protect-ezdata) | Powerprotect Data Manager declarative data extracts (no need to write code) | `Reporting` |
+| [ezdata](https://github.com/SkunkworksAutomation/power-protect-ezdata) | Powerprotect Data Manager declarative data extracts (no need to write code) | `Reporting` |
