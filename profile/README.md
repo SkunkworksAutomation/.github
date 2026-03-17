@@ -27,7 +27,7 @@ Cliff Rodriguez
  * [VCF.PowerCli](https://www.powershellgallery.com/packages/VCF.PowerCLI)
 
 # Repositories
-|Respoitory|Description|
-| :--- | :--- | ----- |
+| :--------------------- | :--------------------- | ------------------------------------------------- |
+| Respoitory             | Description            |                                                   |
 | [power-protect-ezdata](https://github.com/SkunkworksAutomation/power-protect-ezdata) | Powerprotect Data Manager declarative data extracts | Reporting |
 | [2026](https://github.com/SkunkworksAutomation/2026) | Powerprotect Data Manager automation & reporting | Autmation, Reporting |
