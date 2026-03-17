@@ -16,4 +16,6 @@ Cliff Rodriguez
 
 # Platforms
 * Ansible
+ * Modules
+  * [JMesPath](https://jmespath.org/)   
 * PowerShell 7
