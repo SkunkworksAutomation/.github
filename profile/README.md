@@ -1,5 +1,5 @@
 # Skunkworks Automation
-This is repository will cover a wide variety of automation use cases in and around the data protection space.
+This is collection of repositories will cover a wide variety of automation use cases in and around the data protection space with the PowerProtect software.
 
 # Notes:
 This is NOT an official Dell sponsored code repository. The Ansible playbooks and Powershell code contained within these repositories are my own work.
@@ -30,4 +30,4 @@ Cliff Rodriguez
 | Respoitory             | Description            | Category                                          |
 | :--------------------- | :--------------------- | :------------------------------------------------ |
 | [power-protect-ezdata](https://github.com/SkunkworksAutomation/power-protect-ezdata) | Powerprotect Data Manager declarative data extracts | Reporting |
-| [2026](https://github.com/SkunkworksAutomation/2026) | Powerprotect Data Manager automation & reporting | Autmation, Reporting |
+| [2026](https://github.com/SkunkworksAutomation/2026) | Powerprotect Data Manager automation & reporting examples in 2026 | Autmation, Reporting |
